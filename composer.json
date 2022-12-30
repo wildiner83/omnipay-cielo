@@ -1,5 +1,5 @@
 {
-  "name": "wildiner83/omnipay-cielo/",
+  "name": "wildiner83/omnipay-cielo",
   "description": "Cielo API 3.0 driver for Omnipay",
   "type": "library",
   "require": {
