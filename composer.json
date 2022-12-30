@@ -5,12 +5,17 @@
   "require": {
     "php": ">=7.0"
   },
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
-      "name": "Wildierr Bruno",
+      "name": "Wildiner Bruno",
       "email": "wildiner@gmail.com"
     }
   ],
+  "autoload": {
+        "psr-4": {
+            "Omnipay\\Cielo\\": "src/"
+        }
+    },
   "minimum-stability": "dev"
 }
