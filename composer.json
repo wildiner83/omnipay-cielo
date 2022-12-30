@@ -12,6 +12,12 @@
       "email": "wildiner@gmail.com"
     }
   ],
+  "repositories": [
+    {
+     "type": "vcs",
+     "url": "https://github.com/wildiner83/omnipay-cielo" 
+    }
+  ],
   "autoload": {
         "psr-4": {
             "Omnipay\\Cielo\\": "src/"
