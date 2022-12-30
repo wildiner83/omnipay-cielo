@@ -3,12 +3,17 @@
     "description": "Cielo API 3.0 driver for Omnipay",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wildiner83\\OmnipayCielo\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "wildiner83",
             "email": "wildinerb@ufmg.br"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
