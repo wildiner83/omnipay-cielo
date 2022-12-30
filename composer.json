@@ -1,0 +1,16 @@
+{
+  "name": "wildiner83/omnipay-cielo/",
+  "description": "Cielo API 3.0 driver for Omnipay",
+  "type": "library",
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Wildierr Bruno",
+      "email": "wildiner@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
