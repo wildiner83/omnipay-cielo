@@ -9,6 +9,6 @@
             "email": "wildinerb@ufmg.br"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
