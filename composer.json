@@ -1,28 +1,14 @@
 {
-  "name": "wildiner83/omnipay-cielo",
-  "description": "Cielo API 3.0 driver for Omnipay",
-  "type": "library",
-  "require": {
-    "php": ">=7.0"
-  },
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Wildiner Bruno",
-      "email": "wildiner@gmail.com"
-    }
-  ],
-  "repositories": [
-    {
-     "type": "vcs",
-     "url": "https://github.com/wildiner83/omnipay-cielo" 
-    }
-  ],
-  "autoload": {
-        "psr-4": {
-            "Omnipay\\Cielo\\": "src/"
+    "name": "wildiner83/omnipay-cielo",
+    "description": "Cielo API 3.0 driver for Omnipay",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wildiner83",
+            "email": "wildinerb@ufmg.br"
         }
-    },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
